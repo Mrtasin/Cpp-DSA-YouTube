@@ -19,7 +19,7 @@ int add1()
 int main()
 {
     printName(); // function Calling
-    cout<a;
+    // cout<a;
     int sum = add(10, 20);
     cout << "Sum is :- " << sum << endl;
     sum = add(10, 20,30);
